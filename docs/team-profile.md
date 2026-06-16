@@ -5,7 +5,6 @@
 | 6609229 | Mi Su Zin Swar | Documentation Lead | Responsible for writing, organizing, and submitting all project reports, meeting notes, and presentation slides |
 | 6703447 | Arkar Min Paing | Technical Lead / UXUI Lead | Designing a clean, mobile-friendly interface for students and vendors and writing the frontend and backend code to make the ordering system fully functional |
 
-<img width="1374" height="89" alt="image" src="https://github.com/user-attachments/assets/ffdbe9cb-1888-4368-bc21-74ca3b5de3d5" />
 
 <img width="672" height="114" alt="image" src="https://github.com/user-attachments/assets/c7f37076-628a-450a-a811-2a9a04d76f0a" />
 
