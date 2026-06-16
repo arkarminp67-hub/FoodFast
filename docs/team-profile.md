@@ -15,3 +15,5 @@
 3. File naming rule: lowercase-with-hyphen
 4. GitHub commit rule: commit after every completed task
 5. Conflict resolution rule: discuss in meeting, vote if needed
+
+Update team profile with clearer roles and skills
