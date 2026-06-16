@@ -44,7 +44,7 @@ Possible technical paths we might explore:
 ## Weekly Progress Log
 | Lab | Main Activity | Output | Status |
 |---|---|---|---|
-| Lab 1 | Lab setup and idea log | Repository, team profile, initial idea log | In progress |
+| Lab 1 | Lab setup and idea log | Repository, team profile, initial idea log | Completed |
 
 ## Current Status
 Our team has successfully established our unified collaboration framework on GitHub under the team name **FoodFast**. We have configured the required repository directory structure, formulated our team working agreements, mapped our individual technical and communication skill sets from image_3d617f.png, and committed our foundational project files.
