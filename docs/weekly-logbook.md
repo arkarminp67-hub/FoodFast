@@ -26,3 +26,5 @@ The team decided to focus more on the FoodFast idea as the main direction becaus
 
 ### Plan for Next Week
 In Lab 2, we will perform opportunity scanning, validate the selected idea with target users, and refine the problem and solution based on feedback.
+
+Update weekly logbook with complete Lab 1 details
