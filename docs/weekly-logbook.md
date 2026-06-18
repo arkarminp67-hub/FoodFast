@@ -27,4 +27,32 @@ The team decided to focus more on the FoodFast idea as the main direction becaus
 ### Plan for Next Week
 In Lab 2, we will perform opportunity scanning, validate the selected idea with target users, and refine the problem and solution based on feedback.
 
-Update weekly logbook with complete Lab 1 details
+## Lab 02: IT Opportunity Scanning
+
+### What We Completed
+1. Reviewed Lab 1 startup concepts and built out a 6-idea real-world opportunity matrix.
+2. Formulated an explicit NUF ranking sheet using Excel formulas to determine our optimal MVP focus.
+3. Generated our selected-opportunity master statement and launched 5 active GitHub tracking issues.
+
+### Selected Opportunity
+FoodFast: Smart Vendor Pre-Ordering Application
+
+### Why We Selected It
+FoodFast proved highly feasible for our team because it allows our team to focus entirely on clean, responsive web interface design and database logic without requiring physical hardware constraints or complex cybersecurity setups.
+
+### What We Rejected
+We rejected Idea 2 (Cafe Inventory Web App) because it relies heavily on constant, painstaking manual tracking updates by vendors, lowering its operational usability compared to an automated customer order queue dashboard.
+
+### What We Learned
+1. Real business value comes from tracking concrete, validated customer pain points rather than chasing advanced technology buzzwords.
+2. How to use SUM and RANK functions inside an analytical NUF matrix to mathematically filter project risks.
+3. Documenting decisions cleanly via Markdown layouts to maintain a professional codebase ecosystem.
+
+### Evidence of Work
+- Opportunity scan file: `/docs/opportunity-scan.md`
+- NUF scoring file: `/data/opportunity-scoring.xlsx`
+- Selected opportunity file: `/docs/selected-opportunity.md`
+- GitHub issue screenshot: Captured on workspace dashboard page.
+
+### Plan for Lab 03
+Our team will construct customer discovery survey scripts to collect explicit queue times and student validation patterns next week.
