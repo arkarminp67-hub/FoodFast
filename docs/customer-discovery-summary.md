@@ -27,4 +27,4 @@ Our active customer discovery phase yielded explicit, recurring feedback metrics
 ## 3. Core Next Steps for the MVP
 1.  **VPC Formulation (Lab 04):** Translate these verified frustrations directly into the Pain Relievers and Gain Creators of our Value Proposition Canvas.
 2.  **UI/UX Scope Pivot:** Optimize the application workflow to ensure that placing an order takes fewer than three taps, allowing busy students to order easily between classes.
-3.  
+
