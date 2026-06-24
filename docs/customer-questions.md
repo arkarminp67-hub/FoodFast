@@ -49,5 +49,4 @@ The goal of this questionnaire is to explore real-world cafeteria dining behavio
     *   [ ] Mobile Digital Wallet / QR Payment  
     *   [ ] Credit or Debit Card  
     *   [ ] Physical Cash  
-*   **Question 8:** On a scale of 1 to 5, how likely would you be to use a mobile-optimized web application to pre-order food, pay digitally, and receive an automated notification when your plate is ready for pickup?  
-    *   *Linear Scale:* 1 (Extremely Unlikely) — 2 — 3 — 4 — 5 (Extremely Likely)
+*   **Question 8: Have you ever used an online app or messaging group to pre-order food or drinks before arriving at a shop? [ ] Yes [ ] No
