@@ -14,39 +14,43 @@ The goal of this questionnaire is to explore real-world cafeteria dining behavio
 ## 2. Structural Survey Questions
 
 ### Section A: Demographic Filtering
-*   **Question 1:** What is your primary day-to-day role on the university campus?  
-    *   [ ] Student  
-    *   [ ] Faculty Staff / Professor  
-    *   [ ] External Visitor / Other  
-*   **Question 2:** On average, how frequently do you purchase meals or drinks from the main campus cafeteria?  
-    *   [ ] Daily (4–5 times a week)  
-    *   [ ] Occasionally (2–3 times a week)  
-    *   [ ] Rarely (Once a week or less)  
+* **Question 1:** What is your primary day-to-day role on the university campus?  
+    * [ ] Student  
+    * [ ] Faculty Staff / Professor  
+    * [ ] External Visitor / Other  
+* **Question 2:** On average, how frequently do you purchase meals or drinks from the main campus cafeteria?  
+    * [ ] Daily (4–5 times a week)  
+    * [ ] Occasionally (2–3 times a week)  
+    * [ ] Rarely (Once a week or less)  
 
 ### Section B: Baseline Behavioral Scanning
-*   **Question 3:** During a standard lecture break or lunchtime block, how much time do you typically allocate to get your food?  
-    *   [ ] Under 15 minutes  
-    *   [ ] 15–30 minutes  
-    *   [ ] More than 30 minutes  
-*   **Question 4:** On an average day during peak hours (11:30 AM – 1:30 PM), how long do you find yourself waiting in line at a single food stall?  
-    *   [ ] Less than 5 minutes  
-    *   [ ] 5–10 minutes  
-    *   [ ] 11–20 minutes  
-    *   [ ] More than 20 minutes  
+* **Question 3:** During a standard lecture break or lunchtime block, how much time do you typically allocate to get your food?  
+    * [ ] Under 15 minutes  
+    * [ ] 15–30 minutes  
+    * [ ] More than 30 minutes  
+* **Question 4:** On an average day during peak hours (11:30 AM – 1:30 PM), how long do you find yourself waiting in line at a single food stall?  
+    * [ ] Less than 5 minutes  
+    * [ ] 5–10 minutes  
+    * [ ] 11–20 minutes  
+    * [ ] More than 20 minutes  
 
 ### Section C: Problem Space & Friction Validation
-*   **Question 5:** Have you ever chosen to skip a meal or arrived late to a lecture/meeting solely because of cafeteria queue delays?  
-    *   [ ] Yes  
-    *   [ ] No  
-*   **Question 6:** Which of the following issues do you consider your biggest frustration with the current food ordering process? *(Select your main constraint)*  
-    *   [ ] Long physical line bottlenecks  
-    *   [ ] Desired food items running out by the time you reach the counter  
-    *   [ ] Cash-only payment restrictions at specific stalls  
-    *   [ ] General confusion around manual paper tickets and order pickup numbers  
+* **Question 5:** Have you ever chosen to skip a meal or arrived late to a lecture/meeting solely because of cafeteria queue delays?  
+    * [ ] Yes  
+    * [ ] No  
+* **Question 6:** Which of the following issues do you consider your biggest frustration with the current food ordering process? *(Select your main constraint)*  
+    * [ ] Long physical line bottlenecks  
+    * [ ] Desired food items running out by the time you reach the counter  
+    * [ ] Cash-only payment restrictions at specific stalls  
+    * [ ] General confusion around manual paper tickets and order pickup numbers  
 
-### Section D: Transaction Preferences & Solution Openness
-*   **Question 7:** What is your preferred method of transaction when checking out at campus stalls?  
-    *   [ ] Mobile Digital Wallet / QR Payment  
-    *   [ ] Credit or Debit Card  
-    *   [ ] Physical Cash  
-*   **Question 8: Have you ever used an online app or messaging group to pre-order food or drinks before arriving at a shop? [ ] Yes [ ] No
+### Section D: Transaction Preferences & Behavioral Openness
+* **Question 7:** What is your preferred method of transaction when checking out at campus stalls?  
+    * [ ] Mobile Digital Wallet / QR Payment  
+    * [ ] Credit or Debit Card  
+    * [ ] Physical Cash  
+* **Question 8:** Have you ever used an online application or digital messaging group to pre-order food or drinks before arriving physically at a shop?  
+    * [ ] Yes  
+    * [ ] No  
+* **Question 9:** On a scale of 1 to 5, how much does waiting in campus cafeteria queues disrupt your daily academic or teaching schedule?  
+    * *Linear Scale:* 1 (No Impact) — 2 — 3 — 4 — 5 (Severe Disruption)
