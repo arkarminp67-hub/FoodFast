@@ -1,30 +1,15 @@
-# Lab 03: Customer Discovery Executive Synthesis Report
+# Lab 03: Customer Discovery Summary
 
-**Prepared By:** Mi Su Zin Swar (Documentation Lead)  
-**Reviewing Instructor:** Dr. Herison Surbakti  
+## 1. Repeated Patterns Validated
+* **The 10-Minute Bottleneck:** 80% of our target market consistently spends more than 10 minutes waiting at a single stall during peak hours.
+* **Academic Disruption:** 72.5% of respondents have experienced late lecture arrivals or skipped meals directly due to cafeteria line delays.
+* **Digital Preference:** There is a clear shift toward cashless transactions, with 77.5% of users preferring QR/Mobile wallets over cash.
 
----
+## 2. Validated Problem Signals
+The data confirms that the problem is real, severe, and highly frequent. The bottleneck is caused by a lack of ordering coordination before users arrive physically at the stall.
 
-## 1. Core Summary of Repeated Validation Patterns
-Our active customer discovery phase yielded explicit, recurring feedback metrics that clearly define the campus dining ecosystem:
-*   **The 10-Minute Bottleneck Threshold:** A massive 80% of our user base experiences queue wait times that exceed 10 minutes. This confirms that peak hour crowd management is a persistent issue.
-*   **The Academic Disruption Pattern:** Over 70% of respondents face negative academic consequences (skipping lunch or missing lectures), proving that this issue impacts campus life well beyond simple convenience.
-*   **Digital Wallet Dominance:** Students have an overwhelming preference for QR-code payments (77.5%), showing that our target market is ready for fully cashless systems.
+## 3. Weak Evidence / Unknowns
+We still need more feedback from older university administration staff members who might be more hesitant to use mobile-optimized web tools compared to students.
 
----
-
-## 2. Strong vs. Weak Evidence Analysis
-
-### Strong Evidence Signals (Green Flags)
-> **Problem Urgency:** The quantitative metric showing that 72.5% of users miss meals provides undeniable proof of market demand. This gives FoodFast strong justification to proceed without modifying our core direction.
-> **App Openness:** The mean likelihood of app adoption scored a high **4.55 / 5.00**, showing excellent market alignment.
-
-### Weak/Inconclusive Evidence Signals (Red Flags)
-> **Faculty Frequency:** While faculty staff express frustration with wait times, their purchasing frequency is much lower, with many choosing to bring food from home. This indicates that faculty form our secondary user base, while students are our primary target.
-
----
-
-## 3. Core Next Steps for the MVP
-1.  **VPC Formulation (Lab 04):** Translate these verified frustrations directly into the Pain Relievers and Gain Creators of our Value Proposition Canvas.
-2.  **UI/UX Scope Pivot:** Optimize the application workflow to ensure that placing an order takes fewer than three taps, allowing busy students to order easily between classes.
-
+## 4. Next Step MVP Direction
+Based on these findings, we will move forward with our software-only pre-ordering system. Our initial prototype will focus on a responsive web layout displaying live order queues to tackle the validated 10–20 minute time loss window.
