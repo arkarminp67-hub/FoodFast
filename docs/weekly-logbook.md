@@ -82,3 +82,20 @@ We rejected adding complex physical order-pickup lockers or sensor systems becau
 
 ### Plan for Lab 04
 We will begin mapping out our system's core feature architecture and design our initial application user flow diagrams.
+
+## Lab 04: User Persona, Requirements, and User Stories
+
+### What We Completed
+1. Generated an evidence-based primary user persona named Min Khant using Lab 03 metric inputs.
+2. Structured functional and non-functional engineering requirement lists (FR-01 through NFR-03) to map our prototype baseline.
+3. Formulated precise user stories accompanied by testable Acceptance Criteria conditions.
+4. Outlined the software feature scope using MoSCoW prioritization metrics to ensure high development feasibility without IoT or security complications.
+5. Modeled interactive processes via user flow architecture diagrams.
+
+### Member Contribution Logs
+* **Thant Zin:** Persona generation (`user-persona.md`) and user story validation criteria.
+* **Mi Su Zin Swar:** Diagram logic assembly and feature scope mapping.
+* **Arkar Min Paing:** Requirements writing, system table setups, and repository documentation merges.
+
+### Plan for Lab 05
+We will transition our formalized requirements into actionable architecture designs and interface layouts next week.
